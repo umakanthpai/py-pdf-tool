@@ -1,0 +1,7 @@
+.idea
+venv/Include/
+venv/Lib/
+venv/Scripts
+venv/img
+venv/png
+__pycache__/
